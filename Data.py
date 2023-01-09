@@ -1,6 +1,16 @@
+from time import sleep as s
+from random import randint as r
+ri=r(1, 1000)
+s(ri)
 n=input("Your Name?: ")
+s(ri)
 by=input("Your Age?: ")
+s(ri)
 m=input("Your Mothers Name?: ")
+s(ri)
 j=input("Your Job?: ")
+s(ri)
 print("\n Welcome "+n+" You Are Entering Story Simulator \n")
+s(ri)
 print("You were born "+by+" years ago. Your mother "+m+" left you in a dumpster. fast forward "+by+" years there you are working at the "+j+" but you got fired and started working at the Diahrerah factory. but then you caught polio and started coughing blood, slowly you start fading away. then you wake up it was all a dream, but then YOU CATCH THE COVID TIMEATRON VARIENT THAT TRAVELS THROUGH TIME. you end up in 1866 and train hop then you expload. no where left to go i guess no more "+j)
+s(ri)
